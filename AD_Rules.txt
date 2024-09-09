@@ -1,2 +1,3 @@
 ||anythinktech.com^
-||ads.heytapmobi.com^
+||adx.ads.heytapmobi.com^
+||obus-dc2007-cn.heytapmobi.com^
